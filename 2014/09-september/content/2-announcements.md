@@ -4,13 +4,9 @@
 
 ### Startup Weekend Ottawa #6
 
-<br />
+[![swo logo](img/startup-weekend-slide.png)](http://www.eventbrite.com/e/startup-weekend-ottawa-change-the-ratio-oct-3-5-2014-tickets-12297513193?aff=es2&rank=1)
 
- - Special edition called "Change the Ratio"
- - October 3rd-5th at Carleton University
- - [Tickets now available](http://www.eventbrite.com/e/startup-weekend-ottawa-change-the-ratio-oct-3-5-2014-tickets-12297513193?aff=es2&rank=1)
-
-<br />
+--
 
  <iframe width="560" height="315" src="//www.youtube.com/embed/FyrP0S9rUPg" frameborder="0" allowfullscreen></iframe>
 

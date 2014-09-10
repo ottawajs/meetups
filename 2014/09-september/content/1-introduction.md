@@ -20,5 +20,6 @@ Food & Drinks by [MXI Technologies](http://www.mxi.com/)
 
 - Washrooms
 - WiFi
- - SSID: ``wce00111``
+ - SSID: ``ACSecure``
+ - user: ``wce00111``
  - Password: ``!Back4more``
