@@ -20,5 +20,5 @@ Food & Drinks by [MXI Technologies](http://www.mxi.com/)
 
 - Washrooms
 - WiFi
- - SSID: ``<oops-forgot-to-add>``
- - Password: ``<oops-forgot-to-add>``
+ - SSID: ``wce00111``
+ - Password: ``!Back4more``
