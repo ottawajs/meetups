@@ -12,10 +12,10 @@ To view the slides, go [here](http://ottawajs.org/meetups/).
 
 ## Development
 
-1) ``git clone`` this repository
-2) If you don't have Node installed then [installed Node.js](https://github.com/joyent/node/wiki/installation).
-3) Run ``npm install`` in the terminal from the cloned repo's directory
-4) Run ``grunt serve`` to run local server on port 8000 - [http://localhost:8000]()
+1. ``git clone`` this repository
+2. If you don't have Node installed then [installed Node.js](https://github.com/joyent/node/wiki/installation).
+3. Run ``npm install`` in the terminal from the cloned repo's directory
+4. Run ``grunt serve`` to run local server on port 8000 - [http://localhost:8000]()
 
 
 ### Markdown
