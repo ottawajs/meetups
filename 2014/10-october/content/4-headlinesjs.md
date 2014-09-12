@@ -4,7 +4,7 @@
 
 ### Good To Know
 
-- []()
+- [https://github.com/sindresorhus/awesome-nodejs](Node Awesome) - a curated collection of great modules for Node.JS
 - []()
 - []()
 
