@@ -8,9 +8,9 @@ Venue provided by [Algonquin College](http://www.algonquincollege.com/)
 
 --
 
-[![mxi technologies logo](../../img/sponsors/mxi-logo.png)](http://www.mxi.com/)
+[![Toushay logo](../../img/sponsors/toushay-logo.png)](http://www.toushay.com/)
 
-Food & Drinks by [MXI Technologies](http://www.mxi.com/)
+Food & Drinks by [Toushay](http://www.toushay.com/)
 
 <small>Please drink (and eat!) responsibly - don't drink & drive!<small>
 
@@ -20,5 +20,6 @@ Food & Drinks by [MXI Technologies](http://www.mxi.com/)
 
 - Washrooms
 - WiFi
- - SSID: ``<oops-forgot-to-add>``
- - Password: ``<oops-forgot-to-add>``
+ - SSID: ``ACSecure``
+ - User: ``wce00111``
+ - Password: ``!Back4more``

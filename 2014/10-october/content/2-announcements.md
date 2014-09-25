@@ -16,21 +16,6 @@
 
 --
 
-### [Dojo Workshop - Free Tickets!](http://www.sitepen.com/workshops/)
-
-[![dojo logo](http://dojotoolkit.org/images/logo.png)](http://www.sitepen.com/workshops/)
-
-- [Dojo Workshops](http://www.sitepen.com/workshops/) by Dylan Schiemann
-
-- Ottawa 22-26th September.
-
-- First 5 people to use promocode "``OttawaJS``" attend Dojo 101 for **FREE**!
-
-- Subsequent signups get 20% off.
-
-
---
-
 ### Startup Grind Ottawa
 
 <br />

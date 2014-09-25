@@ -1,5 +1,6 @@
 ## Talks
 
-- [Building DSLs using JavaScript/CoffeeScript]() by David Mosher
-- [Headlines.js]() by David Elisma
-- [Making clean promise-based API for interacting with HTTP services]() by Georgiy Shibaev
+- [Nodebots: Detecting Gestures with Node.js & Kinect]() by Joel Lord
+- [Firefox Add-on development with JavaScript]() by Alan Wu
+- [Headlines.js](#/5) by David Elisma
+- [JavaScript Game Engines]() by Wayne Leroux

@@ -4,9 +4,18 @@
 
 [![Ottawa.js logo](../../img/ottawajs.png)](http://www.meetup.com/Ottawa-JavaScript/)
 
-Wednesday, October 8th @ 6:30pm
+Wednesday, November 12th @ 6:30pm
 
 Follow [@ottawa_js](http://www.twitter.com/ottawa_js)
+
+--
+
+#### November Lineup
+</br>
+
+- Javascript: The good, the bad and the ugly
+- Typescript
+- Object Orientated Javascript
 
 --
 
@@ -22,7 +31,7 @@ Follow [@ottawa_js](http://www.twitter.com/ottawa_js)
 
 [![Ember.js Ottawa logo](../../img/ember-ottawa.jpeg)](http://www.meetup.com/Ember-js-Ottawa/)
 
-Wednesday, 1st October @ 6:30pm
+Wednesday, 3rd December @ 6:30pm
 
 Follow [@EmberOttawa](http://www.twitter.com/EmberOttawa)
 
