@@ -33,6 +33,10 @@ Follow [@ottawa_js](http://www.twitter.com/ottawa_js)
 
 Wednesday, 3rd December @ 6:30pm
 
+A talk on Learning Ember.js
+
+<br />
+
 Follow [@EmberOttawa](http://www.twitter.com/EmberOttawa)
 
 --

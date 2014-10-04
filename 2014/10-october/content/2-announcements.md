@@ -27,3 +27,23 @@
  - Hosts Justin Mares ([Traction Book](http://tractionbook.com/))
  - October 29th at University of Ottawa
  - [Tickets now available](http://www.eventbrite.com/e/startup-grind-ottawa-hosts-justin-mares-traction-book-tickets-12227471697)
+
+--
+
+[![MAagmic logo](../../img/sponsors/magmic.png)](http://www.magmic.com/careers/)
+
+Ottawa.js Sponsors Magmic Games are hiring...
+
+  - [Server Developer](https://angel.co/magmic/jobs/30272-server-developer)
+  - [Senior Game Designer](https://angel.co/magmic/jobs/39324-senior-game-designer)
+  - [QA Technician](https://angel.co/magmic/jobs/39610-qa-technician)
+  - [More Fun Developer](https://angel.co/magmic/jobs/36276-more-fun-developer)
+  - [+ more...](https://angel.co/magmic/jobs)
+
+--
+
+### Community Announcements
+
+<br />
+
+Talk to an organizer in the break if you have anything to announce.
