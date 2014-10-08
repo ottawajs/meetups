@@ -28,5 +28,5 @@ Food & Drinks by [Toushay](http://www.toushay.com/)
 - Washrooms
 - WiFi
  - SSID: ``ACSecure``
- - User: ``wce00111``
- - Password: ``!Back4more``
+ - User: ``wce00101``
+ - Password: ``!Late6days``
