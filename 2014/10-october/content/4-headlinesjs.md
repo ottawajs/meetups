@@ -7,7 +7,6 @@
 - [Node Awesome](https://github.com/sindresorhus/awesome-nodejs) - a curated collection of great modules for Node.JS
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html?)
 - [polyfill.io - Polyfills as a service](http://labs.ft.com/2014/09/polyfills-as-a-service/)
-- []()
 
 --
 
@@ -24,7 +23,6 @@
 
 - [Angular-Data](http://angular-data.pseudobry.com/?) -  model layer inspired by Ember-Data
 - [npm 2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)
-- []()
 
 --
 
@@ -42,10 +40,3 @@
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/z4oxa-UR7oA?list=PLN4SpDLOSVkSbGTLohVaYGDB8hxWxGPBA" frameborder="0" allowfullscreen></iframe>
 
---
-
-#### Video 2
-
-<br />
-
- <iframe width="560" height="315" src="//www.youtube.com/embed/FyrP0S9rUPg" frameborder="0" allowfullscreen></iframe>
