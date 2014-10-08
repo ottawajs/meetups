@@ -30,7 +30,7 @@
 
 --
 
-[![MAagmic logo](../../img/sponsors/magmic.png)](http://www.magmic.com/careers/)
+[![Magmic logo](../../img/sponsors/magmic.png)](http://www.magmic.com/careers/)
 
 Ottawa.js Sponsors Magmic Games are hiring...
 
@@ -39,6 +39,30 @@ Ottawa.js Sponsors Magmic Games are hiring...
   - [QA Technician](https://angel.co/magmic/jobs/39610-qa-technician)
   - [More Fun Developer](https://angel.co/magmic/jobs/36276-more-fun-developer)
   - [+ more...](https://angel.co/magmic/jobs)
+
+--
+
+[![Teldio logo](../../img/sponsors/teldio.png)](http://www.teldio.com/careers/)
+
+<br />
+
+Ottawa.js Sponsors Teldio are hiring...
+
+<br />
+
+  - [Web Application Developer](www.teldio.com/wp-content/uploads/TeldioCareers_WebApplicationsDeveloper.pdf)
+  - [Technical Support](www.teldio.com/wp-content/uploads/TeldioPositionTechnicalSupport.pdf)
+
+--
+
+
+<img src="img/popkey.png" alt="" width="200">
+
+
+[PopKey](http://popkey.co/) are hiring a iOS Developer! Email <a href="mailto:nick.barfoot@workshopx.com">nick.barfoot@workshopx.com</a>
+
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/sCGpwn_YL_c" frameborder="0" allowfullscreen></iframe>
 
 --
 
