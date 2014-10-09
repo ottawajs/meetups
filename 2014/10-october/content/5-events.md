@@ -33,7 +33,7 @@ Follow [@ottawa_js](http://www.twitter.com/ottawa_js)
 
 Wednesday, 3rd December @ 6:30pm
 
-A talk on Learning Ember.js
+Talk: Getting Started With Ember - Richard Martin
 
 <br />
 
