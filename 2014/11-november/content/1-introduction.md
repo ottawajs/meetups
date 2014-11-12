@@ -24,4 +24,4 @@ Food & Drinks by [Teldio](http://www.teldio.com/)
 - WiFi
  - SSID: ``ACSecure``
  - User: ``wce00101``
- - Password: ``!Late6days``
+ - Password: ``!First8snow``
