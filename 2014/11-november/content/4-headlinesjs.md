@@ -74,8 +74,8 @@
 </ul>
 
 --
+[Ottawa Famo.us Meetup](http://www.meetup.com/ottawa-famous)
 <h3>Wannabe Famo.us?</h3>
 <p>Initial launch Meetups Thursday November 20th.</p>
 <p>Hosted by BVo2, 858 Bank St. Suite 103, Ottawa</p>
-[Ottawa Famo.us Meetup](http://www.meetup.com/ottawa-famous)
 --
