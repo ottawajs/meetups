@@ -71,6 +71,7 @@
 		<blockquote class="twitter-tweet" lang="en"><p>Using Firefox Developer Tools to work with a page in iOS Safari (+others) <a href="https://t.co/nmlsmbbg68">https://t.co/nmlsmbbg68</a> That&#39;s a true all-the-web developer tool</p>&mdash; Kumar McMillan (@kumar303) <a href="https://twitter.com/kumar303/status/531897900440485889">November 10, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	</li>
+--
 </ul>
 
 --
