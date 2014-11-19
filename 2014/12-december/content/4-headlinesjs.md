@@ -4,7 +4,7 @@
 --
 
 <h3>And you get typed, and you get typed, everybody get typed!</h3>
-
+http://colemccade.com/wp-content/uploads/2014/03/oprah-you-get-a-car2.gif
 --
 
 <blockquote class="twitter-tweet" lang="en"><p>Facebook is about to release another <a href="https://twitter.com/hashtag/JavaScript?src=hash">#JavaScript</a> technology. It&#39;s a type checker named Flow. <a href="https://t.co/erkGooJesI">https://t.co/erkGooJesI</a></p>&mdash; Pavel Gavlík (@PavelGavlik) <a href="https://twitter.com/PavelGavlik/status/534653996880117762">November 18, 2014</a></blockquote>
