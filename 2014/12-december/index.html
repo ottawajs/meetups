@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Ottawa.js - October 2014</title>
+		<title>Ottawa.js - December 2014</title>
 
 		<meta name="description" content="">
 		<meta name="author" content="Ottawa.js">
@@ -38,7 +38,7 @@
 			.force-element-demo:focus{
 				color: red;
 			}
-			.reveal i {
+			.reveal i{
 				font-style: normal;
 			}
 			.reveal .fa-icon,
@@ -49,6 +49,9 @@
 
 			a .fa{
 				font-size: 0.5em;
+			}
+			iframe.twitter-tweet{
+				margin: 0 auto !important;
 			}
 		</style>
 	</head>
@@ -154,7 +157,8 @@
 					{ src: '../../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
 					{ src: '../../plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: '../../plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-					{ src: '../../plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+					{ src: '../../plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
+					{ src: '//platform.twitter.com/widgets.js', async: true, condition: function() { return !!document.body.classList}}
 				]
 			});
 
