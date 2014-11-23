@@ -11,6 +11,12 @@
 
 --
 
+<blockquote class="twitter-tweet" lang="en"><p>“Introducing Spider” by <a href="https://twitter.com/alongubkin">@alongubkin</a> <a href="https://t.co/xIup0vhUhn">https://t.co/xIup0vhUhn</a></p>&mdash; Namek (@nameczanin) <a href="https://twitter.com/nameczanin/status/532466813880127488">November 12, 2014</a></blockquote>
+
+--
+
+<h3>Other non news</h3>
+
 <blockquote class="twitter-tweet" lang="en"><p>You might not need jQuery <a href="http://t.co/TSUryoB2qh">http://t.co/TSUryoB2qh</a> via <a href="https://twitter.com/HubSpotDev">@HubSpotDev</a></p>&mdash; Ted Slesinski (@helloteds) <a href="https://twitter.com/helloteds/status/428935106720321537">January 30, 2014</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p>You Might Not Need jQuery! … assuming you&#39;ll address these bugs in your hand-written code: <a href="https://t.co/j2hrG2nCpX">https://t.co/j2hrG2nCpX</a></p>&mdash; Paul Irish (@paul_irish) <a href="https://twitter.com/paul_irish/status/431584056883429376">February 7, 2014</a></blockquote>
