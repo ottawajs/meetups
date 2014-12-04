@@ -11,6 +11,10 @@
 
 --
 
+<blockquote class="twitter-tweet" lang="en"><p>New Bluetooth 4.2 spec brings IPv6, better privacy, and increased speed <a href="http://t.co/10sdX8ee61">http://t.co/10sdX8ee61</a> by <a href="https://twitter.com/AndrewWrites">@AndrewWrites</a></p>&mdash; Ars Technica (@arstechnica) <a href="https://twitter.com/arstechnica/status/540167860904292352">December 3, 2014</a></blockquote>
+
+--
+
 <blockquote class="twitter-tweet" lang="en"><p>“Introducing Spider” by <a href="https://twitter.com/alongubkin">@alongubkin</a> <a href="https://t.co/xIup0vhUhn">https://t.co/xIup0vhUhn</a></p>&mdash; Namek (@nameczanin) <a href="https://twitter.com/nameczanin/status/532466813880127488">November 12, 2014</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/spider?src=hash">#spider</a>, next-gen <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a> <a href="https://twitter.com/hashtag/language?src=hash">#language</a>? Sure looks interesting! <a href="https://t.co/0j8MgugqPc">https://t.co/0j8MgugqPc</a> <a href="https://twitter.com/hashtag/javascript?src=hash">#javascript</a> <a href="https://twitter.com/hashtag/spiderlang?src=hash">#spiderlang</a></p>&mdash; Guillaume Delahodde (@Pampattitude) <a href="https://twitter.com/Pampattitude/status/531552868726480896">November 9, 2014</a></blockquote>
