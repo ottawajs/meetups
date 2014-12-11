@@ -80,4 +80,4 @@
 
 --
 
-<h4>Thank you!</h4>
+<h4>Happy Holidays!</h4>
