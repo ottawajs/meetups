@@ -9,20 +9,20 @@
 --
 
 <h4>Node.js in flames</h4>
-<iframe src="http://techblog.netflix.com/2014/11/nodejs-in-flames.html"></iframe>
+<iframe width="600" height="400" src="http://techblog.netflix.com/2014/11/nodejs-in-flames.html"></iframe>
 <p>A look at how Netflix tracked and resolved an interesting bug in an Express app.</p>
 
 --
 
 <h4>Response to Netflix's "Node.js in Flames" Blog Post</h4>
-<iframe src="https://gist.github.com/hueniverse/a3109f716bf25718ba0e"></iframe>
+<iframe width="600" height="400" src="https://gist.github.com/hueniverse/a3109f716bf25718ba0e"></iframe>
 
 --
 
 <h4>Node.js Is Facing A Possible Open-Source Schism</h4>
-<iframe src="http://iojs.org/"></iframe>
-<a href="http://readwrite.com/2014/12/04/node-js-fork-io-js">Popular Coding Framework Node.js Is Now Seriously Forked</a>
-<a href="http://www.infoworld.com/article/2855057/application-development/why-iojs-decided-to-fork-nodejs.html">Q&A: Why io.js decided to fork Node.js</a>
+<iframe width="600" height="400" src="http://iojs.org/" allowtransparency="false" style="background: #FFFFFF;" ></iframe> </br>
+<a style="font-size:12px" href="http://readwrite.com/2014/12/04/node-js-fork-io-js">Popular Coding Framework Node.js Is Now Seriously Forked</a>
+<a style="font-size:12px" href="http://www.infoworld.com/article/2855057/application-development/why-iojs-decided-to-fork-nodejs.html">Q&A: Why io.js decided to fork Node.js</a>
 
 --
 
@@ -31,7 +31,7 @@
 --
 
 <blockquote class="twitter-tweet" lang="en"><p>Facebook is about to release another <a href="https://twitter.com/hashtag/JavaScript?src=hash">#JavaScript</a> technology. It&#39;s a type checker named Flow. <a href="https://t.co/erkGooJesI">https://t.co/erkGooJesI</a></p>&mdash; Pavel Gavlík (@PavelGavlik) <a href="https://twitter.com/PavelGavlik/status/534653996880117762">November 18, 2014</a></blockquote>
-<iframe src="https://code.facebook.com/posts/1505962329687926/flow-a-new-static-type-checker-for-javascript/"></iframe>
+<iframe width="600" height="400" src="https://code.facebook.com/posts/1505962329687926/flow-a-new-static-type-checker-for-javascript/"></iframe>
 
 --
 
@@ -62,7 +62,7 @@
 --
 
 <h4>Hack Summit 2014</h4>
-<iframe src="https://hacksummit.org/"></iframe>
+<iframe width="600" height="400" src="//hacksummit.org/"></iframe>
 
 --
 
@@ -76,7 +76,7 @@
 --
 
 <h4>JS Remote Conf 2015</h4>
-<iframe src="https://jsremoteconf.com/"></iframe>
+<iframe width="600" height="400" src="//jsremoteconf.com/"></iframe>
 
 --
 
